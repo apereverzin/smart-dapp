@@ -1,0 +1,15 @@
+.idea/
+*.iml
+/data/
+**/build/
+/node_modules/
+**.bin
+**/package-lock.json
+.rinkeby/
+*.pdf
+/accounts/rinkeby_accounts.txt
+/misc/
+/doc/*.docx
+src/js/secrets/secrets.js
+yarn*
+client/node_modules
